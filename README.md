@@ -14,7 +14,7 @@ to run this program,
 
 3. inside the project folder on a command line,  type
 
-	python generate_movies.pytho
+	python generate_movies.py
 	
 The output should now have create fresh_tomatoes.html and opened it in a browser
 
